@@ -1,0 +1,74 @@
+*{
+	margin:					0;
+	padding:				0;
+}
+
+body{
+	font-family: 			arial, serif;
+	font-size:				62.5%;
+	//padding:				20px;
+	font-size:				.8em;
+}
+
+.group{
+	padding-bottom: 20px;
+}
+
+
+
+
+
+
+h1{
+	font-family: arial, serif;
+}
+
+h2{
+	padding-top: 20px;
+}
+
+h3{
+	text-indent: 25px;
+}
+
+#copy{
+	margin-top: 25px;
+}
+
+input{
+	text-indent: -25px;
+}
+
+#layoutDeductions{
+	text-indent: 5px;
+}
+
+
+
+
+
+table{
+	border-collapse: collapse;
+}
+
+table.rubricgrade{
+	margin-bottom: 25px;
+}
+
+table tbody tr{
+	border: 1px solid #aaaaaa;
+}
+
+table tbody tr:hover{
+	background-color: #cccccc;
+}
+
+table tbody tr td{
+	padding: 10px;
+	width: 40px;
+}
+
+
+textarea {
+	width: 500px;
+}
